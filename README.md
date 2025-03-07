@@ -1,4 +1,3 @@
-
 ###
 
 <div align="center">
@@ -33,6 +32,9 @@
   </a>
   <a href="https://x.com/abdulrahman_3sf" target="_blank">
     <img src="https://img.shields.io/static/v1?message=X%20(Twitter)&logo=twitter&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
+  </a>
+  <a href="https://discordapp.com/users/527580068307009566" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
 </div>
 
